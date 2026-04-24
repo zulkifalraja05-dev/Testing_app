@@ -17,7 +17,7 @@
 - Real-time Line Chart  
 
 📁 Project Structure
-Testing_app/
+First_app/
 │── app.py
 │── main.py
 │── requirements.txt
